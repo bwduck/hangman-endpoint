@@ -1,0 +1,17 @@
+{
+  "name": "hangman-puzzles",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "ramda": "^0.26.1"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
